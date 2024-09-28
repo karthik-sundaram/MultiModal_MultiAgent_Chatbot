@@ -39,6 +39,8 @@ https://colab.research.google.com/drive/1bkBykhE0v-sXWxkq9X-I18NAhl8Wu0AJ#scroll
 
 ## Watch a small demo here: 
    
-[![Watch the video](https://img.youtube.com/vi/5_sIkdMnaVg/maxresdefault.jpg)](https://youtu.be/5_sIkdMnaVg)  
+[![Watch the video](https://img.youtube.com/vi/5_sIkdMnaVg/maxresdefault.jpg)](https://youtu.be/5_sIkdMnaVg)    
+
+[![Watch the video](https://img.youtube.com/vi/hTIdANQ8ZUU/maxresdefault.jpg)](https://youtu.be/hTIdANQ8ZUU)  
 
  
