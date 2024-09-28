@@ -46,8 +46,6 @@ https://colab.research.google.com/drive/1bkBykhE0v-sXWxkq9X-I18NAhl8Wu0AJ#scroll
 
 ![image](https://github.com/user-attachments/assets/0b6e146a-65f0-46af-ad21-0736f14caa04)
 
-![image](https://github.com/user-attachments/assets/9226c93c-9360-458c-8ff8-2c8f8025c552)
-
 ![image](https://github.com/user-attachments/assets/1be1fd22-6540-477b-9a89-b7fe2b66b635)
 
 
