@@ -37,7 +37,7 @@ The chatbot leverages a multi-agent system using **ReactJsonAgent** to execute t
 ## Colab code link:
 https://colab.research.google.com/drive/1bkBykhE0v-sXWxkq9X-I18NAhl8Wu0AJ#scrollTo=jWKVKA4FxMJ8
 
-## Watch a small demo here: 
+## Watch a few demos and screenshots here: 
    
 [![Watch the video](https://img.youtube.com/vi/5_sIkdMnaVg/maxresdefault.jpg)](https://youtu.be/5_sIkdMnaVg)    
 
