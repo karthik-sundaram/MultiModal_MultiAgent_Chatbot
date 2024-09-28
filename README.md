@@ -43,4 +43,13 @@ https://colab.research.google.com/drive/1bkBykhE0v-sXWxkq9X-I18NAhl8Wu0AJ#scroll
 
 [![Watch the video](https://img.youtube.com/vi/hTIdANQ8ZUU/maxresdefault.jpg)](https://youtu.be/hTIdANQ8ZUU)  
 
+
+![image](https://github.com/user-attachments/assets/0b6e146a-65f0-46af-ad21-0736f14caa04)
+  
+![image](https://github.com/user-attachments/assets/0bbf8719-fe21-4ef2-a858-0ea7a0b74622)
+
+
+
+
+
  
